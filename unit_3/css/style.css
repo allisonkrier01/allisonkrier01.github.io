@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: url(https://github.com/allisonkrier01/allisonkrier01.github.io/blob/master/unit_3/images/necklace.jpg);
+	background: url("https://github.com/allisonkrier01/allisonkrier01.github.io/blob/master/unit_3/images/necklace.jpg");
 	background-size: cover;
 	font-family: 'Mukta Mahee', sans-serif;
 	font-size: 22px;
